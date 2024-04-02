@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+input {
+    height: 30px;
+    padding: 8px;
+    border-radius: 25px;
+}
+
+.container {
+    height: 56px;
+    background-color: #3a3b3c;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.item {
+    display: flex;
+}
+
+svg {
+    height: 30px;
+}
